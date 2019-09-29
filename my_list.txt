@@ -1,3 +1,7 @@
 "LeBron James"
 "Michael Jordon"
-"Giannis Antetekoumpo
+"Giannis Antetokounmpo"
+"James Harden"
+"Steve Nash"
+"Kevin Durant"
+"Russel Westbrook"
